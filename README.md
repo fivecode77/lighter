@@ -5,3 +5,5 @@ Opis:
 2. Resmon na poziomie 0.0.
 
 Preview: https://www.youtube.com/watch?v=lsONCr8MdEQ
+
+ Discord: https://discord.gg/xKtv9wZgwd
